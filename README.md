@@ -12,10 +12,10 @@ The dashboard provides insights into **total imports, trends over time, top impo
   - Top Import Partner  
 
 - **Visuals:**
-  - Line Chart → Imports by Year (2021–2024)  
+  - Bar Chart → Imports by Year (2021–2024)  
   - Line Chart → Monthly Import Trends  
-  - Bar Chart → Imports by HS Category  
-  - Bar Chart → Imports by Country  
+  - Bar Chart → Imports by Category  
+  - Map → Imports by Country  
   - Line Chart → Imports by Quantity  
 
 - **Interactive Filters (Sidebar):**
